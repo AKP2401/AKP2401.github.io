@@ -1,0 +1,11 @@
+html {
+  background-color: rgb(31, 36, 40);
+  color: white;
+  font-size: 48px;
+  font-family: "VT323", monospace;
+  font-weight: 600;
+}
+
+#gif-container {
+  width: 25%;
+}
